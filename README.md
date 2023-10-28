@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
-- 🌱 I’m currently learning **Data Analysis (MS Excel, Python, R, SQL, Tableau, Power BI)**
+- 🌱 I’m currently learning about **DL Models**
 
 - 💬 Ask me about **Data-driven Decision Making**
 
