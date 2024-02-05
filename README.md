@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishikeshav Ravichandran</h1>
-<h3 align="center">An aspiring Data Analyst from India</h3>
+<h3 align="center">An aspiring Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Data Analaysis (MS Excel, Python, R, SQL, Tableau, Power BI)**
-
-- 💬 Ask me about **Data-driven Decision Making**
+- 🌱 I’m currently learning **GANs**
 
 - 📫 How to reach me **rishi.r1804@gmail.com**
 
